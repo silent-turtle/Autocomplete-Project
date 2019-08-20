@@ -1,5 +1,5 @@
 # Autocomplete-Project
-The project that i've been working on as part of the DSA course in FMI.
+The project that I've been working on as part of the DSA course in FMI.
 
 # To-Do List:
 - remove the global transition container and use the children one in each state instead
